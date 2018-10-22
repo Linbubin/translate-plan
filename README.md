@@ -1,16 +1,9 @@
-[中文](README_zh-CN.md)
-
-[原文](README_UN.md)
-
 # 翻译计划
 
-如果不出意外,每周一篇[这里](https://github.com/leonardomso/33-js-concepts)的文章,可能会加快,不会托更. --- 2018.10.22
+如果不出意外,每周一篇文章,可能会加快,不会托更. --- 2018.10.22
 
-- [ ] 翻译README_zh-CN
-- [ ] 测试
-- [ ] 测试1
-    - [x] 测试2
-    - [x] 测试3
-    - [ ] 测试4
-- [ ] 测试5
-    - [ ] 测试6
+## 完成
+[现代前端框架存在的深层原因](The_deepest_reason_why_modern_JavaScript_frameworks_exist/README.md)
+
+## 待完成
+[33个前端开发者需要知道的概念](33_Concepts_Every_JavaScript_Developer_Should_Know/README.md)
