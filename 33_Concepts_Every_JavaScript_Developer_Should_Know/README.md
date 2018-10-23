@@ -6,10 +6,362 @@
 
 ## 翻译进度
 - [ ] 翻译README_zh-CN
-- [ ] 测试
-- [ ] 测试1
-    - [x] 测试2
-    - [x] 测试3
-    - [ ] 测试4
-- [ ] 测试5
-    - [ ] 测试6
+- [x] 内容列表
+- [ ] 内容
+  - [ ] 1. 调用栈
+    - [ ] Understanding Javascript Call Stack, Event Loops — Gaurav Pandvia
+    - [ ] Understanding the JavaScript Call Stack — Charles Freeborn
+    - [ ] Javascript: What Is The Execution Context? What Is The Call Stack? — Valentino Gagliardi
+    - [ ] What is the JS Event Loop and Call Stack? — Jess Telford
+    - [ ] Call Stack — MDN
+    - [ ] Understanding Execution Context and Execution Stack in Javascript — Sukhjinder Arora
+    - [ ] How JavaScript Works: An Overview of the Engine, the Runtime, and the Call Stack — Alexander Zlatkov
+    - [ ] The Ultimate Guide to Execution Contexts, Hoisting, Scopes, and Closures in JavaScript — Tyler McGinnis
+  - [ ] 2. Primitive Types
+    - [ ] How numbers are encoded in JavaScript — Dr. Axel Rauschmayer
+    - [ ] What You Need to Know About JavaScript Number Type — Max Wizard K
+    - [ ] What Every JavaScript Developer Should Know About Floating Point Numbers — Chewxy
+    - [ ] The Secret Life of JavaScript Primitives — Angus Croll
+    - [ ] Primitive Types — Flow
+    - [ ] (Not) Everything in JavaScript is an Object - Daniel Li
+    - [ ] JavaScript data types and data structures - MDN
+  - [ ] 3. Value Types and Reference Types
+    - [ ] Explaining Value vs. Reference in Javascript — Arnav Aggarwal
+    - [ ] Understand Value and Reference Types in JavaScript — Zsolt Nagy
+    - [ ] Primitive Types & Reference Types in JavaScript — Bran van der Meer
+    - [ ] Value Types, Reference Types and Scope in JavaScript — Ben Aston
+    - [ ] Back to roots: JavaScript Value vs Reference — Miro Koczka
+    - [ ] Grasp “By Value” and “By Reference” in JavaScript — Léna Faure
+    - [ ] JavaScript Reference and Copy Variables — Vítor Capretz
+    - [ ] JavaScript Primitive vs Reference Values
+  - [ ] 4. Implicit, Explicit, Nominal, Structuring and Duck Typing
+    - [ ] What you need to know about Javascript's Implicit Coercion — Promise Tochi
+    - [ ] JavaScript Type Coercion Explained — Alexey Samoshkin
+    - [ ] Javascript Coercion Explained — Ben Garrison
+    - [ ] What exactly is Type Coercion in Javascript? - Stack Overflow
+    - [ ] You Don't Know JS: Types & Grammar [Book
+    - [ ] (Not) Everything in JavaScript is an Object - Daniel Li
+  - [ ] 5. == vs === vs typeof
+    - [x] js中 三等于 和 两等于的比较 — Brandon Morelli
+    - [ ] What is the difference between =, ==, and === in JS? — Codecademy
+    - [ ] Should I use === or == equality comparison operator in JavaScript? — Panu Pitkamaki
+    - [ ] == vs === JavaScript: Double Equals and Coercion — AJ Meyghani
+    - [ ] Why Use the Triple-Equals Operator in JavaScript? — Louis Lazaris
+    - [ ] What is the difference between == and === in JavaScript? — Craig Buckler
+    - [ ] Why javascript's typeof always return "object"? — Stack Overflow
+    - [ ] Checking Types in Javascript — Toby Ho
+    - [ ] How to better check data types in JavaScript — Webbjocke
+    - [ ] Checking for the Absence of a Value in JavaScript — Tomer Aberbach
+  - [ ] 6. Function Scope, Block Scope and Lexical Scope
+    - [ ] You Don't Know JS: Scope & Closures [Book
+    - [ ] The battle between Function Scope and Block Scope — Marius Herring
+    - [ ] Emulating Block Scope in JavaScript — Josh Clanton
+    - [ ] The Difference Between Function and Block Scope in JavaScript — Joseph Cardillo
+    - [ ] Function Scopes and Block Scopes in JavaScript — Samer Buna
+    - [ ] Understanding Scope and Context in JavaScript | Ryan Morr
+    - [ ] JavaScript Scope and Closures — Zell Liew
+    - [ ] Understanding Scope in JavaScript — Wissam Abirached
+    - [ ] Speaking JavaScript - Variables: Scopes, Environments, and Closures — Dr. Axel Rauschmayer
+    - [ ] Understanding Scope in JavaScript ― Hammad Ahmed
+  - [ ] 7. Expression vs Statement
+    - [ ] All you need to know about Javascript's Expressions, Statements and Expression Statements — Promise Tochi
+    - [ ] Function Expressions vs Function Declarations — Paul Wilkins
+    - [ ] JavaScript Function — Declaration vs Expression — Ravi Roshan
+    - [ ] Function Declarations vs. Function Expressions — Mandeep Singh
+    - [ ] Function Declarations vs. Function Expressions — Anguls Croll
+  - [ ] 8. IIFE, Modules and Namespaces
+    - [ ] Mastering Immediately-Invoked Function Expressions ― Chandra Gundamaraju
+    - [ ] Do ES6 Modules make the case of IIFEs obsolete?
+    - [ ] A 10 minute primer to JavaScript modules, module formats, module loaders and module bundlers ― Jurgen Van de Moere
+    - [ ] Modules ― Exploring JS
+    - [ ] ES modules: A cartoon deep-dive — Lin Clark
+    - [ ] Understanding ES6 Modules — Craig Buckler
+    - [ ] An overview of ES6 Modules in JavaScript — Brent Graham
+    - [ ] ES6 Modules in Depth — Nicolás Bevacqua
+    - [ ] ES6 modules, Node.js and the Michael Jackson Solution — Alberto Gimeno
+  - [ ] 9. Message Queue and Event Loop
+    - [ ] JavaScript Event Loop Explained — Anoop Raveendran
+    - [ ] The JavaScript Event Loop: Explained — Erin Sweson-Healey
+    - [ ] What is the Event Loop in Javascript — WP Tutor.io
+    - [ ] Understanding JS: The Event Loop — Alexander Kondov
+    - [ ] Understanding the JavaScript Event Loop — Ashish Gupta
+    - [ ] Event Loop in Javascript — Manjula Dube
+    - [ ] The JavaScript Event Loop — Flavio Copes
+    - [ ] How JavaScript works: Event loop — Alexander Zlatkov
+  - [ ] 10. setTimeout, setInterval and requestAnimationFrame
+    - [ ] setTimeout and setInterval — JavaScript.Info
+    - [ ] Why not to use setInterval — Akanksha Sharma
+    - [ ] setTimeout VS setInterval — Develoger
+    - [ ] Using requestAnimationFrame — Chris Coyier
+    - [ ] Understanding JavaScript's requestAnimationFrame() — JavaScript Kit
+    - [ ] Handling time intervals in JavaScript - Amit Merchant
+  - [ ] 11. JavaScript Engines
+    - [ ] JavaScript Engines — Jen Looper
+    - [ ] Understanding How the Chrome V8 Engine Translates JavaScript into Machine Code — DroidHead
+    - [ ] Understanding V8’s Bytecode — Franziska Hinkelmann
+    - [ ] How the V8 engine works? — Thibault Laurens
+    - [ ] A Brief History of Google’s V8 Javascript Engine — Clair Smith
+  - [ ] 12. Bitwise Operators, Type Arrays and Array Buffers
+    - [ ] Programming with JS: Bitwise Operations — Alexander Kondov
+    - [ ] Using JavaScript’s Bitwise Operators in Real Life — ian m
+    - [ ] JavaScript Bitwise Operators — w3resource
+    - [ ] Bitwise Operators in Javascript — Joe Cha
+    - [ ] A Comprehensive Primer on Binary Computation and Bitwise Operators in Javascript — Paul Brown
+  - [ ] 13. DOM and Layout Trees
+    - [ ] How To Understand and Modify the DOM in JavaScript — Tania Rascia
+    - [ ] JavaScript DOM Tutorial with Example — Guru99
+    - [ ] What is the DOM? — Chris Coyier
+    - [ ] Traversing the DOM with JavaScript — Zell Liew
+    - [ ] Eloquent JavaScript [Book
+    - [ ] DOM Tree
+    - [ ] Render Tree Construction — Ilya Grigorik
+  - [ ] 14. Factories and Classes
+    - [ ] How To Use Classes in JavaScript — Tania Rascia
+    - [ ] Javascript Classes — Under The Hood — Majid
+    - [ ] ES6 Classes — Nathaniel Foster
+    - [ ] Better JavaScript with ES6, Pt. II: A Deep Dive into Classes ― Peleke Sengstacke
+    - [ ] Understand the Factory Design Pattern in Plain JavaScript — Aditya Agarwal
+    - [ ] JavaScript Factory Functions vs Constructor Functions vs Classes — Eric Elliott
+    - [ ] JavaScript Factory Functions with ES6+ — Eric Elliott
+    - [ ] Factory Functions in JavaScript — Josh Miller
+    - [ ] The Factory Pattern in JS ES6 — SnstsDev
+    - [ ] Class vs Factory function: exploring the way forward — Cristi Salcescu
+  - [ ] 15. this, call, apply and bind
+    - [ ] How-to: call() , apply() and bind() in JavaScript — Niladri Sekhar Dutta
+    - [ ] JavaScript’s Apply, Call, and Bind Methods are Essential for JavaScript Professionals — Richard Bovell
+    - [ ] WTF is this - Understanding the this keyword, call, apply, and bind in JavaScript — Tyler McGinnis
+    - [ ] Javascript: call(), apply() and bind() — Omer Goldberg
+    - [ ] The difference between call / apply / bind — Ivan Sifrim
+    - [ ] call(), apply() and bind() methods in JavaScript
+    - [ ] Mastering 'this' in JavaScript: Callbacks and bind(), apply(), call() — Michelle Gienow
+    - [ ] JavaScript’s apply, call, and bind explained by hosting a cookout — Kevin Kononenko
+    - [ ] How AND When to use bind, call, and apply in Javascript — Eigen X
+    - [ ] JavaScript .bind() vs .apply() and .call() — Hack Sparrow
+    - [ ] call() — MDN
+    - [ ] bind() — MDN
+    - [ ] apply() — MDN
+    - [ ] What is 'this' in JavaScript? — Daniel Li
+    - [ ] Let me explain to you what is `this`. (Javascript) — Jason Yu
+  - [ ] 16. new, Constructor, instanceof and Instances
+    - [ ] JavaScript For Beginners: the ‘new’ operator — Brandon Morelli
+    - [ ] Let’s demystify JavaScript’s ‘new’ keyword — Cynthia Lee
+    - [ ] Constructor, operator "new" — JavaScript.Info
+    - [ ] Understanding JavaScript Constructors — Faraz Kelhini
+    - [ ] Use Constructor Functions — Openclassrooms
+    - [ ] Beyond `typeof` and `instanceof`: simplifying dynamic type checks — Dr. Axel Rauschmayer
+    - [ ] What Is the Instanceof Operator in JavaScript — appendTo
+    - [ ] JavaScript instanceof vs typeof — Gary Rafferty
+    - [ ] Function and Object, instances of each other — Kiro Risk
+  - [ ] 17. Prototype Inheritance and Prototype Chain
+    - [ ] Javascript : Prototype vs Class — Valentin PARSY
+    - [ ] JavaScript engine fundamentals: optimizing prototypes — Mathias Bynens
+    - [ ] JavaScript Prototype — NC Patro
+    - [ ] Prototype in Javascript — Sandeep Ranjan
+    - [ ] Prototypes in JavaScript — Rupesh Mishra
+    - [ ] Prototype in JavaScript: it’s quirky, but here’s how it works — Pranav Jindal
+    - [ ] Inheritance and the prototype chain — MDN
+    - [ ] Master the JavaScript Interview: What’s the Difference Between Class & Prototypal Inheritance? — Eric Elliott
+    - [ ] Understanding JavaScript: Prototype and Inheritance — Alexander Kondov
+    - [ ] Prototypal Inheritance — JavaScript.Info
+    - [ ] How To Work with Prototypes and Inheritance in JavaScript — Tania Rascia
+    - [ ] Master JavaScript Prototypes & Inheritance — Arnav Aggarwal
+    - [ ] You Don't Know JS [Book
+    - [ ] JavaScript’s Prototypal Inheritance Explained Using CSS — Nash Vail
+    - [ ] Prototypal Inheritance in JavaScript — Jannis Redmann
+    - [ ] Classical and Prototypical Inheritance in JavaScript — Danny Cornelisse
+    - [ ] Demystifying ES6 Classes And Prototypal Inheritance ― Neo Ighodaro
+    - [ ] Intro To Prototypal Inheritance — Dharani Jayakanthan
+    - [ ] Classes in JavaScript - Explained — Daniel Li
+  - [ ] 18. Object.create and Object.assign
+    - [ ] Object.create() — MDN
+    - [ ] Object.create in JavaScript — Rupesh Mishra
+    - [ ] Object.create(): the New Way to Create Objects in JavaScript — Rob Gravelle
+    - [ ] Basic Inheritance with Object.create — Joshua Clanton
+    - [ ] Object.create() In JavaScript — GeeksforGeeks
+    - [ ] Understanding the difference between Object.create() and the new operator — Jonathan Voxland
+    - [ ] JavaScript Object Creation: Patterns and Best Practices — Jeff Mott
+    - [ ] Dealing With Objects in JavaScript With Object.assign, Object.keys and hasOwnProperty
+    - [ ] Copying Objects in JavaScript ― Orinami Olatunji
+    - [ ] Object.assign() — MDN
+    - [ ] JavaScript: Object.assign() — Thiago S. Adriano
+  - [ ] 19. map, reduce, filter
+    - [ ] JavaScript Functional Programming — map, filter and reduce — Bojan Gvozderac
+    - [ ] Learn map, filter and reduce in Javascript — João Miguel Cunha
+    - [ ] JavaScript’s Map, Reduce, and Filter — Dan Martensen
+    - [ ] How to Use Map, Filter, & Reduce in JavaScript — Peleke Sengstacke
+    - [ ] JavaScript — Learn to Chain Map, Filter, and Reduce — Brandon Morelli
+    - [ ] Javascript data structure with map, reduce, filter and ES6 — Deepak Gupta
+    - [ ] Understanding map, filter and reduce in Javascript — Luuk Gruijs
+    - [ ] Functional Programming in JS: map, filter, reduce (Pt. 5) — Omer Goldberg
+    - [ ] JavaScript: Map, Filter, Reduce — William S. Vincent
+    - [ ] Arrow Functions: Fat and Concise Syntax in JavaScript — Kyle Pennell
+    - [ ] JavaScript: Arrow Functions for Beginners — Brandon Morelli
+    - [ ] When (and why) you should use ES6 arrow functions — and when you shouldn’t — Cynthia Lee
+    - [ ] JavaScript — Learn & Understand Arrow Functions — Brandon Morelli
+    - [ ] (JavaScript )=> Arrow functions — sigu
+    - [ ] A possibility to use Async/Await for filter(), find(), forEach(), map() and reduce() methods in Array - Ruwan Geeganage
+  - [ ] 20. Pure Functions, Side Effects and State Mutation
+    - [ ] Javascript and Functional Programming — Pure Functions — Omer Goldberg
+    - [ ] Master the JavaScript Interview: What is a Pure Function? — Eric Elliott
+    - [ ] JavaScript: What Are Pure Functions And Why Use Them? — James Jeffery
+    - [ ] Pure functions in JavaScript — @nicoespeon
+    - [ ] Functional Programming: Pure Functions — Arne Brasseur
+    - [ ] Pure Functions In Javascript — Krunal
+    - [ ] Making your JavaScript Pure — Jack Franklin
+    - [ ] To mutate, or not to mutate, in JavaScript
+    - [ ] Arrays, Objects and Mutations — Federico Knüssel
+    - [ ] The State of Immutability — Maciej Sikora
+    - [ ] How to deal with dirty side effects in your pure functional JavaScript — James Sinclair
+    - [ ] Preventing Side Effects in JavaScript — David Walsh
+  - [ ] 21. Closures
+    - [ ] Closures — MDN
+    - [ ] I never understood JavaScript closures — Olivier De Meulder
+    - [ ] Closure — JavaScript.Info
+    - [ ] Understand JavaScript Closures With Ease — Richard Bovell
+    - [ ] Understanding JavaScript Closures — Codesmith
+    - [ ] Understand Closures in JavaScript — Brandon Morelli
+    - [ ] A simple guide to help you understand closures in JavaScript — Prashant Ram
+    - [ ] Understanding JavaScript Closures: A Practical Approach — Paul Upendo
+    - [ ] Understanding JavaScript: Closures — Alexander Kondov
+    - [ ] How to use JavaScript closures with confidence — Léna Faure
+    - [ ] JavaScript closures by example — tyler
+  - [ ] 22. High Order Functions
+    - [ ] Higher-Order Functions — Eloquent JavaScript [Book
+    - [ ] Higher-Order Functions in JavaScript — M. David Green
+    - [ ] Higher Order Functions: Using Filter, Map and Reduce for More Maintainable Code — Guido Schmitz
+    - [ ] First-class and Higher Order Functions: Effective Functional JavaScript — Hugo Di Francesco
+    - [ ] Higher Order Functions in JavaScript — John Hannah
+    - [ ] Higher-order Functions — Richard Bovell
+    - [ ] Higher Order Functions in JavaScript — Zsolt Nagy
+    - [ ] Fun With Higher Order Functions In JavaScript — Derick
+    - [ ] Just a reminder on how to use high order functions — Pedro Filho
+    - [ ] How to use JavaScript closures with confidence — Léna Faure
+    - [ ] JavaScript closures by example — tyler
+  - [ ] 23. Recursion
+    - [ ] Recursion in JavaScript — Kevin Ennis
+    - [ ] Understanding Recursion in JavaScript — Zak Frisch
+    - [ ] Learn and Understand Recursion in JavaScript — Brandon Morelli
+    - [ ] Recursion in Functional JavaScript — M. David Green
+    - [ ] Programming with JS: Recursion — Alexander Kondov
+    - [ ] Anonymous Recursion in JavaScript — simo
+    - [ ] Recursion, iteration and tail calls in JS — loverajoel
+    - [ ] Understanding Recursion in JavaScript with Confidence — Jay
+  - [ ] 24. Collections
+    - [ ] ES6 In Depth: Collections — Jason Orendorff
+    - [ ] ES6 Collections: Using Map, Set, WeakMap, WeakSet — Kyle Pennell
+    - [ ] ES6 WeakMaps, Sets, and WeakSets in Depth — Nicolás Bevacqua
+    - [ ] Introduction to Sets in JavaScript — Alligator.io
+    - [ ] Introduction to Maps in JavaScript — Alligator.io
+    - [ ] Map, Set, WeakMap and WeakSet — JavaScript.Info
+    - [ ] Maps in ES6 - A Quick Guide — Ben Mildren
+    - [ ] ES6 — Set vs Array — What and when? — Maya Shavin
+    - [ ] ES6 — Map vs Object — What and when? — Maya Shavin
+    - [ ] ES6: Working with Sets in JavaScript — Dead Code Rising
+    - [ ] Array vs Set vs Map vs Object — Real-time use cases in Javascript (ES6/ES7) — Rajesh Babu
+    - [ ] How to create an array of unique values in JavaScript using Sets — Claire Parker-Jones
+    - [ ] What You Should Know About ES6 Maps — Just Chris
+    - [ ] ES6 Maps in Depth — Nicolás Bevacqua
+  - [ ] 25. Promises
+    - [ ] Promise — MDN
+    - [ ] JavaScript Promises for Dummies ― Jecelyn Yeen
+    - [ ] Understanding promises in JavaScript — Gokul N K
+    - [ ] Master the JavaScript Interview: What is a Promise? — Eric Elliott
+    - [ ] An Overview of JavaScript Promises — Sandeep Panda
+    - [ ] How to use Promises in JavaScript — Prashant Ram
+    - [ ] Implementing Promises In JavaScript — Maciej Cieslar
+    - [ ] JavaScript: Promises explained with simple real life analogies — Shruti Kapoor
+    - [ ] Promises for Asynchronous Programming — Exploring JS
+    - [ ] JavaScript Promises Explained By Gambling At A Casino — Kevin Kononenko
+    - [ ] ES6 Promises: Patterns and Anti-Patterns — Bobby Brennan
+    - [ ] A Simple Guide to ES6 Promises — Brandon Morelli
+    - [ ] The ES6 Promises — Manoj Singh Negi
+    - [ ] ES6 Promises in Depth — Nicolás Bevacqua
+  - [ ] 26. async/await
+    - [ ] async/await — JavaScript.Info
+    - [ ] Understanding async/await in Javascript — Gokul N K
+    - [ ] Asynchronous Programming — Eloquent JavaScript
+    - [ ] Exploring Async/Await Functions in JavaScript — Alligator.io
+    - [ ] Asynchronous Javascript using async/await — Joy Warugu
+    - [ ] Modern Asynchronous JavaScript with async/await — Flavio Copes
+    - [ ] Asynchronous JavaScript: From Callback Hell to Async and Await — Demir Selmanovic
+    - [ ] Javascript — ES8 Introducing async/await Functions — Ben Garrison
+    - [ ] How to escape async/await hell — Aditya Agarwal
+    - [ ] Understanding JavaScript’s async await — Nicolás Bevacqua
+    - [ ] JavaScript Async/Await: Serial, Parallel and Complex Flow — TechBrij
+    - [ ] Asynchronous Programming — Exploring JS
+    - [ ] From JavaScript Promises to Async/Await: why bother? — Chris Nwamba
+    - [ ] Flow Control in Modern JS: Callbacks to Promises to Async/Await — Craig Buckler
+    - [ ] JavaScript: Promises and Why Async/Await Wins the Battle — Nick Parsons
+  - [ ] 27. Data Structures
+    - [ ] Data Structures in JavaScript — Thon Ly
+    - [ ] Algorithms and Data Structures in JavaScript — Oleksii Trekhleb
+    - [ ] Data Structures: Objects and Arrays ― Chris Nwamba
+    - [ ] Data structures in JavaScript — Benoit Vallon
+    - [ ] Playing with Data Structures in Javascript — Anish K.
+    - [ ] The Little Guide of Queue in JavaScript — Germán Cutraro
+    - [ ] All algorithms writing with JavaScript in the book 'Algorithms Fourth Edition'
+    - [ ] Collection of classic computer science paradigms in JavaScript
+    - [ ] All the things you didn't know you wanted to know about data structures
+  - [ ] 28. Expensive Operation and Big O Notation
+    - [ ] Big O Notation in Javascript — César Antón Dorantes
+    - [ ] Time Complexity/Big O Notation — Tim Roberts
+    - [ ] Big O in JavaScript — Gabriela Medina
+    - [ ] Big O Search Algorithms in JavaScript — Bradley Braithwaite
+    - [ ] Time Complexity Analysis in JavaScript — Jennifer Bland
+    - [ ] Algorithms in plain English: time complexity and Big-O Notation — Michael Olorunnisola
+  - [ ] 29. Algorithms
+    - [ ] Data Structures and Algorithms using ES6
+    - [ ] Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+    - [ ] JS: Interview Algorithm
+    - [ ] Algorithms in JavaScript — Thon Ly
+    - [ ] JavaScript Objects, Square Brackets and Algorithms — Dmitri Grabov
+    - [ ] Atwood's Law applied to CS101 - Classic algorithms and data structures implemented in JavaScript
+    - [ ] Data Structures and Algorithms library in JavaScript
+    - [ ] Collection of computer science algorithms and data structures written in JavaScript
+  - [ ] 30. Inheritance, Polymorphism and Code Reuse
+    - [ ] Class inheritance, super — JavaScript.Info
+    - [ ] Inheritance in JavaScript — MDN
+    - [ ] Inheritance in JavaScript — Rupesh Mishra
+    - [ ] Simple Inheritance with JavaScript — David Catuhe
+    - [ ] JavaScript — Inheritance, delegation patterns and Object linking — NC Patro
+    - [ ] Object Oriented JavaScript: Polymorphism with examples — Knoldus Blogs
+    - [ ] Program Like Proteus — A beginner’s guide to polymorphism in Javascript — Sam Galson
+    - [ ] Object-oriented JavaScript: A Deep Dive into ES6 Classes — Jeff Mott
+  - [ ] 31. Design Patterns
+    - [ ] 4 JavaScript Design Patterns You Should Know — Devan Patel
+    - [ ] JavaScript Design Patterns – Beginner's Guide to Mobile Web Development — Soumyajit Pathak
+    - [ ] JavaScript Design Patterns — Akash Pal
+    - [ ] Javascript Design Patterns: What They Are & How To Use Them — Patrick Simpson
+    - [ ] All the 23 (GoF) design patterns implemented in Javascript — Felipe Beline
+    - [ ] Learning JavaScript Design Patterns — Addy Osmani 
+  - [ ] 32. Partial Applications, Currying, Compose and Pipe
+    - [ ] Use function composition in JavaScript — Rémi
+    - [ ] Currying in JavaScript ES6 — Adam Bene
+    - [ ] Composition and Currying Elegance in JavaScript — Pragyan Das
+    - [ ] Functional JavaScript: Function Composition For Every Day Use — Joel Thoms
+    - [ ] Functional Composition: compose() and pipe() — Anton Paras
+    - [ ] Why The Hipsters Compose Everything: Functional Composing In JavaScript — A. Sharif
+    - [ ] A Gentle Introduction to Functional JavaScript pt III: Functions for making functions — James Sinclair
+    - [ ] Curry And Compose (why you should be using something like ramda in your code) — jsanchesleao
+    - [ ] Function Composition in JavaScript with Pipe — Andy Van Slaars
+    - [ ] Practical Functional JavaScript with Ramda — Andrew D'Amelio, Yuri Takhteyev
+    - [ ] The beauty in Partial Application, Currying, and Function Composition — Joel Thoms
+    - [ ] Curry or Partial Application? — Eric Elliott
+    - [ ] Partial Application in JavaScript — Ben Alman
+    - [ ] Partial Application of Functions — Functional Reactive Ninja
+    - [ ] Currying vs Partial Application — Deepak Gupta
+    - [ ] Partial Application in ECMAScript 2015 — Ragan Wald
+    - [ ] Functional Composition in Javascript — Joe Cortopassi
+    - [ ] So You Want to be a Functional Programmer pt. I — Charles Scalfani
+    - [ ] So You Want to be a Functional Programmer pt. II — Charles Scalfani
+    - [ ] So You Want to be a Functional Programmer pt. III — Charles Scalfani
+    - [ ] So You Want to be a Functional Programmer pt. IV — Charles Scalfani
+    - [ ] So You Want to be a Functional Programmer pt. V — Charles Scalfani
+    - [ ] Functional-Light JavaScript Chapter 3: Managing Function Inputs — Kyle Simpson
+  - [ ] 33. Clean Code
+    - [ ] Clean Code concepts adapted for JavaScript — Ryan McDermott
+    - [ ] JavaScript Clean Coding Best Practices — András Tóth
+    - [ ] Function parameters in JavaScript Clean Code — Kevin Peters
+    - [ ] Clean Code JavaScript — Sarah Drasner
+    - [ ] Keeping your code clean — Samuel James
+    - [ ] Best Practices for Using Modern JavaScript Syntax — M. David Green
