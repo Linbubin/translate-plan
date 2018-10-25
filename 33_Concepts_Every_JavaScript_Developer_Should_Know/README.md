@@ -43,7 +43,7 @@
     - [ ] (Not) Everything in JavaScript is an Object - Daniel Li
   - [ ] 5. == vs === vs typeof
     - [x] js中 三等于 和 两等于的比较 — Brandon Morelli
-    - [ ] What is the difference between =, ==, and === in JS? — Codecademy
+    - [x] 在js中 = == ===的区别 — Codecademy
     - [ ] Should I use === or == equality comparison operator in JavaScript? — Panu Pitkamaki
     - [ ] == vs === JavaScript: Double Equals and Coercion — AJ Meyghani
     - [ ] Why Use the Triple-Equals Operator in JavaScript? — Louis Lazaris
