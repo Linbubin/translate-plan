@@ -164,7 +164,7 @@
 
  * 📜 [js中 三等于 和 两等于的比较 — Brandon Morelli](5/JavaScript_—_Double_Equals_vs._Triple_Equals.md)
  * 📜 [在js中 = == ===的区别 — Codecademy](5/What_is_the_difference_between_=,_==,_and_===_in_JS.md)
- * 📜 [Should I use === or == equality comparison operator in JavaScript? — Panu Pitkamaki](https://bytearcher.com/articles/equality-comparison-operator-javascript/)
+ * 📜 [在js中,我应该使用==还是===操作符? — Panu Pitkamaki](5/Should_I_use_===_or_==_equality_comparison_operator_in_JavaScript.md)
  * 📜 [== vs === JavaScript: Double Equals and Coercion — AJ Meyghani](https://www.codementor.io/javascript/tutorial/double-equals-and-coercion-in-javascript)
  * 📜 [Why Use the Triple-Equals Operator in JavaScript? — Louis Lazaris](https://www.impressivewebs.com/why-use-triple-equals-javascipt/)
  * 📜 [What is the difference between == and === in JavaScript? — Craig Buckler](https://www.oreilly.com/learning/what-is-the-difference-between-and-in-javascript)
