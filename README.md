@@ -1,6 +1,6 @@
 # 翻译计划
 
-如果不出意外,每周一篇文章,可能会加快,不会托更. --- 2018.10.22
+如果不出意外,三天一篇文章,可能会加快,不会托更. --- 2018.10.22
 
 ## 完成
 [现代前端框架存在的深层原因](The_deepest_reason_why_modern_JavaScript_frameworks_exist/README.md)

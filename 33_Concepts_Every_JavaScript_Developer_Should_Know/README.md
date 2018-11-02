@@ -46,7 +46,7 @@
     - [x] 在js中 = == ===的区别 — Codecademy
     - [x] 在js中,我应该使用==还是===操作符? — Panu Pitkamaki
     - [x] js中 == 和 ===的区别: 双等于和强制转换 — AJ Meyghani
-    - [ ] Why Use the Triple-Equals Operator in JavaScript? — Louis Lazaris
+    - [x] 为什么在js中要使用===操作符? — Louis Lazaris
     - [ ] What is the difference between == and === in JavaScript? — Craig Buckler
     - [ ] Why javascript's typeof always return "object"? — Stack Overflow
     - [ ] Checking Types in Javascript — Toby Ho

@@ -166,7 +166,7 @@
  * 📜 [在js中 = == ===的区别 — Codecademy](5/What_is_the_difference_between_=,_==,_and_===_in_JS.md)
  * 📜 [在js中,我应该使用==还是===操作符? — Panu Pitkamaki](5/Should_I_use_===_or_==_equality_comparison_operator_in_JavaScript.md)
  * 📜 [js中 == 和 ===的区别: 双等于和强制转换 — AJ Meyghani](5/==_vs_===_JavaScript_Double_Equals_and_Coercion.md)
- * 📜 [Why Use the Triple-Equals Operator in JavaScript? — Louis Lazaris](https://www.impressivewebs.com/why-use-triple-equals-javascipt/)
+ * 📜 [为什么在js中要使用===操作符? — Louis Lazaris](5/Why_Use_the_Triple-Equals_Operator_in_JavaScript.md)
  * 📜 [What is the difference between == and === in JavaScript? — Craig Buckler](https://www.oreilly.com/learning/what-is-the-difference-between-and-in-javascript)
  * 📜 [Why javascript's typeof always return "object"? — Stack Overflow](https://stackoverflow.com/questions/3787901/why-javascripts-typeof-always-return-object)
  * 📜 [Checking Types in Javascript — Toby Ho](http://tobyho.com/2011/01/28/checking-types-in-javascript/)
